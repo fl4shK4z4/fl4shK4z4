@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://cdn.discordapp.com/attachments/1066867006399324251/1124242366904156231/Sans_titre.gif" width="600"/>
   <div id="badges">
-  <a href="your-discord-URL">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  <a href="http://discord.flashkaza.com">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=black" alt="Discord Badge"/>
   </a>
-  <a href="your-website-URL">
-    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
+  <a href="https://flashkaza.com">
+    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge" alt="Website Badge"/>
   </a>
 </div>
 </div>
