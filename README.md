@@ -2,10 +2,10 @@
   <img src="https://cdn.discordapp.com/attachments/1066867006399324251/1124242366904156231/Sans_titre.gif" width="600"/>
   <div id="badges">
   <a href="your-discord-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="your-website-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
 </div>
