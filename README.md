@@ -16,6 +16,11 @@
 website : https://flashkaza.com
 discord : http://discord.flashkaza.com
 
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=fl4shK4z4
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
