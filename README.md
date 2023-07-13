@@ -23,8 +23,7 @@ discord : http://discord.flashkaza.com
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fl4shK4z4)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fl4shK4z4&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fl4shK4z4&show=reviews)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
