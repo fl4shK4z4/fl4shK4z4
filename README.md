@@ -21,7 +21,7 @@ discord : http://discord.flashkaza.com
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fl4shK4z4&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fl4shK4z4)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fl4shK4z4&show_icons=true&theme=radical)
 
